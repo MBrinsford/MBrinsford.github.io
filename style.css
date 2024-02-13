@@ -1,9 +1,17 @@
 h1 {
     font-family: arial;
     text-align: center;
+    color: rgb(219, 204, 0);
+    background-color: rgb(74, 70, 70);
 }
 
 .intro {
     font-family: arial;
     text-align: center;
+    color: rgb(219, 204, 0);
+    background-color: rgb(74, 70, 70);
+}
+
+html {
+  background-color: rgb(0, 0, 0);
 }
